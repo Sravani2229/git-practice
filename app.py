@@ -1,2 +1,2 @@
 print('Hello git')
-print(Git practivce completed)
+print(Git practice completed)
